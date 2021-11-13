@@ -1,0 +1,19 @@
+{
+    "rutas" : [
+        {
+            "ruta" : "locations",
+            "icon" : "add_alert",
+            "texto": "Location"
+        },
+        {
+            "ruta" : "episodes",
+            "icon" : "accessibility",
+            "texto": "Episodes"
+        },
+        {
+            "ruta" : "like",
+            "icon" : "folder_open",
+            "texto": "Like"
+        }
+    ]
+}
