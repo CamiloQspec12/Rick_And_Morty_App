@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'Widgets/appBar.dart';
+import '../widgets/appBar.dart';
 
 class DocsPage extends StatelessWidget {
   //const DocsPage({Key? key}) : super(key: key);

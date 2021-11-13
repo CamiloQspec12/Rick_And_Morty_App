@@ -1,12 +1,10 @@
-import 'dart:developer';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:rick_and_morty/src/Providers/appBarProvider.dart';
-import './Providers/appBarProvider.dart';
-import 'Widgets/appBar.dart';
-import 'Widgets/footerHome.dart';
-import 'Widgets/cardBody.dart';
+import 'package:rick_and_morty/features/app/presentation/widgets/cardBody.dart';
+
+import '../widgets/appBar.dart';
+
 
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);

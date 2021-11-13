@@ -1,7 +1,7 @@
 import 'dart:developer';
 import 'package:flutter/material.dart';
-import '../Providers/appBarProvider.dart';
-import '../docs_page.dart';
+import '../../../../src/Providers/appBarProvider.dart';
+import '../pages/docs_page.dart';
 
 class Cabecera extends StatelessWidget {
   final _title = "Rick And Morty Application";
