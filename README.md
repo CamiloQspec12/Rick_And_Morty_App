@@ -1,10 +1,6 @@
 # Rick_And_Morty_App
 A basic flutter aplication based on rick and morty api page.
 
-# rick_and_morty
-
-A new Flutter project.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
