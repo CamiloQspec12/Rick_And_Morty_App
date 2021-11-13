@@ -1,5 +1,8 @@
 import 'package:equatable/equatable.dart';
 
+import 'location_entity.dart';
+import 'origin_entity.dart';
+
 class CharacterEntity extends Equatable {
   int? id;
   String? name;
